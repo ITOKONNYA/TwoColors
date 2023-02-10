@@ -13,6 +13,8 @@ URL : https://itokonnya.github.io/TwoColors/
 2. メインの色に応じて、PCCSの各色から対照的な色を集めた配列を作る。
 3. 作った配列からアクセントの色をランダムに選ぶ。
 
+### PCCSとは
+
 ## Supported Browsers
 
 * __Windows__
