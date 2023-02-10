@@ -7,3 +7,5 @@ URL : https://itokonnya.github.io/TwoColors/
 * __Proposal for two contrasting colors__
 
 * __Ideal for presentation materials__
+
+Supported Browsers
