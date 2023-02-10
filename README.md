@@ -5,8 +5,13 @@
 URL : https://itokonnya.github.io/TwoColors/
 
 * __Suggestion of two contrasting colors__
-
 * __Ideal for presentation materials__
+
+## 配色の生成方法
+
+1. PSSCの各色（12のトーン × 12の色相 = 144色）からメインの色をランダムに選ぶ。
+2. メインの色のトーンと色相に応じて、アクセントの色となる色の範囲を設定する。
+3. 設定した範囲からアクセントの色をランダムに選ぶ。
 
 ## Supported Browsers
 
