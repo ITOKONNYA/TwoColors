@@ -1,6 +1,6 @@
 # Color Scheme Generator
 
-![twoColors](https://user-images.githubusercontent.com/124262891/218005645-80836094-7364-46bf-ac96-5f7028d6673a.jpg)
+![aaaaa](https://user-images.githubusercontent.com/124262891/218033714-78d532d8-80c4-4749-b91f-d7bec766f955.gif)
 
 URL : https://itokonnya.github.io/TwoColors/
 
