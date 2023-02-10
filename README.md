@@ -4,6 +4,6 @@
 
 URL : https://itokonnya.github.io/TwoColors/
 
-* *Proposal for two contrasting colors*
+* **Proposal for two contrasting colors**
 
 * Ideal for presentation materials
