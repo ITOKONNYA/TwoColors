@@ -12,6 +12,21 @@ URL : https://itokonnya.github.io/TwoColors/
 
 * __Windows__
   * Google Chrome
+  * Apple Safari
+  * Microsoft Edge
+  * Mozilla Firefox
 * __macOS__
+  * Google Chrome
+  * Apple Safari
+  * Microsoft Edge
+  * Mozilla Firefox
 * __iOS__
+  * Google Chrome
+  * Apple Safari
+  * Microsoft Edge
+  * Mozilla Firefox
 * __andriod__
+  * Google Chrome
+  * Apple Safari
+  * Microsoft Edge
+  * Mozilla Firefox
