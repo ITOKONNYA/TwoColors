@@ -30,3 +30,9 @@ URL : https://itokonnya.github.io/TwoColors/
   * Safari
   * Edge
   * Firefox
+
+## References
+
+http://www.garakuta.net/color/pccs/matrix.html
+
+Citation source for the values converted to RGB for each pccs color.
