@@ -8,4 +8,4 @@ URL : https://itokonnya.github.io/TwoColors/
 
 * __Ideal for presentation materials__
 
-Supported Browsers
+## Supported Browsers
