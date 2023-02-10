@@ -9,3 +9,8 @@ URL : https://itokonnya.github.io/TwoColors/
 * __Ideal for presentation materials__
 
 ## Supported Browsers
+
+* __Windows__
+* __macOS__
+* __iOS__
+* __andriod__
