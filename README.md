@@ -13,7 +13,9 @@ URL : https://itokonnya.github.io/TwoColors/
 2. メインの色に応じて、PCCSの各色から対照的な色を集めた配列を作る。
 3. 作った配列からアクセントの色をランダムに選ぶ。
 
-#### PCCSとは
+#### PCCS (Practical Color Coordinate System)
+
+日本色彩研究所が開発した表色系。トーンと色相という二つの属性で、色を二次元で表記できることが特徴。
 
 ## Supported Browsers
 
