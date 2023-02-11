@@ -1,6 +1,6 @@
 # Color Scheme Generator
 
-![aaaaa](https://user-images.githubusercontent.com/124262891/218033714-78d532d8-80c4-4749-b91f-d7bec766f955.gif)
+![demo](https://user-images.githubusercontent.com/124262891/218033714-78d532d8-80c4-4749-b91f-d7bec766f955.gif)
 
 * __This suggests two contrasting colors.__
 * __Those are ideal for presentation materials.__
