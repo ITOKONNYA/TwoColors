@@ -24,6 +24,8 @@ URL : https://itokonnya.github.io/TwoColors/
 * Microsoft Edge  (latest version) - Windows, macOS
 * Mozilla Firefox (latest version) - Windows, macOS
 
+Any browser you use needs to have JavaScript turned on. 
+
 ## References
 
 http://www.garakuta.net/color/pccs/matrix.html
