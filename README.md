@@ -7,7 +7,7 @@ URL : https://itokonnya.github.io/TwoColors/
 * __This suggests two contrasting colors.__
 * __Those are ideal for presentation materials.__
 
-## 配色の生成手順
+## Color Scheme Generation Method
 
 1. PSSCの各色（12のトーン × 12の色相 = 144色）からメインの色をランダムに選ぶ。
 2. メインの色に応じて、PCCSの各色から対照的な色を集めた配列を作る。
