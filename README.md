@@ -4,8 +4,8 @@
 
 URL : https://itokonnya.github.io/TwoColors/
 
-* __Suggestion of two contrasting colors__
-* __Ideal for presentation materials__
+* __対照的な二色を提案__
+* __プレゼンテーション資料に最適__
 
 ## 配色の生成方法
 
