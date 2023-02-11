@@ -20,7 +20,7 @@ URL : https://itokonnya.github.io/TwoColors/
 ## Supported Browsers
 
 * Google Chrome (latest version) - Windows, macOS
-* Apple Safari (latest version) - Windows, macOS
+* Apple Safari (latest version) - ,
 * Microsoft Edge  (latest version) - Windows, macOS
 * Mozilla Firefox (latest version) - Windows, macOS
 
