@@ -20,11 +20,11 @@
 ## Supported Browsers
 
 * Windows
-    * Google Chrome (latest version) - Recommended
+    * Google Chrome (latest version) - __Recommended__
     * Microsoft Edge (latest version)
     * Mozilla Firefox (latest version)
 * macOS
-    * Google Chrome (latest version) - Recommended
+    * Google Chrome (latest version) - __Recommended__
     * Microsoft Edge (latest version)
     * Mozilla Firefox (latest version)
     * Apple Safari (latest version)
