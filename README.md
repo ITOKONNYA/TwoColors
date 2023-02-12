@@ -5,6 +5,10 @@
 * __This suggests two contrasting colors.__
 * __Those are ideal for presentation materials.__
 
+
+
+
+
 ## Color Scheme Generation Method
 
 1. PSSCの各色のRGB値[^1]からメインとなる色の値をランダムに選ぶ。
