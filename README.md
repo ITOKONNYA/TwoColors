@@ -5,15 +5,13 @@
 * __This suggests two contrasting colors.__
 * __Those are ideal for presentation materials.__
 
+## 配色の生成手順
 
+1. PSSCの各色のRGB値[^1]を並べた配列からメインとなる色の値をランダムに選ぶ。
+2. メインの色と対照性が保てるPSSCの各色のRGB値[^1]を並べた配列を新たに作る。
+3. 新たに作った配列からアクセントの色となる値をランダムに選ぶ。
 
-
-
-## Color Scheme Generation Method
-
-1. PSSCの各色のRGB値[^1]からメインとなる色の値をランダムに選ぶ。
-2. メインの色に応じて、PSSCの各色のRGB値[^1]をまとめた配列を作る。
-3. 作った配列からアクセントの色となる値をランダムに選ぶ。
+現在は、私の独断で対照性が保てている色を選んでいます。合理的な判断基準を模索中です。
 
 #### PCCS (日本色研配色体系)
 
@@ -34,7 +32,6 @@
 * Android
 
 Any browser you use needs to have __JavaScript__ turned on.
-
 
 ### References
 
