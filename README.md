@@ -8,7 +8,7 @@
 ## Color Scheme Generation Method
 
 1. PSSCの各色のRGB値[^1]からメインとなる色の値をランダムに選ぶ。
-2. メインの色に応じて、PSSCの各色のRGB値[^1]から配列を作る。
+2. メインの色に応じて、PSSCの各色のRGB値[^1]をまとめた配列を作る。
 3. 作った配列からアクセントの色となる値をランダムに選ぶ。
 
 #### PCCS (日本色研配色体系)
@@ -29,6 +29,8 @@
 * iPadOS
 * Android
 
-Any browser you use needs to have __JavaScript__ turned on. 
+Any browser you use needs to have __JavaScript__ turned on.
+
+### References
 
 [^1]: 日本色彩研究所. デジタル色彩マニュアル. クレオ, 2004, 237p.
