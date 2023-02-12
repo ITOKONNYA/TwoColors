@@ -33,6 +33,6 @@ Any browser you use needs to have __JavaScript__ turned on.
 
 ## References
 
-http://www.garakuta.net/color/pccs/matrix.html
+1. 日本色彩研究所
 
 The source of each PCCS color converted to RGB.
