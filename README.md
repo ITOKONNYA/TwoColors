@@ -35,5 +35,5 @@ Any browser you use needs to have __JavaScript__ turned on.
 
 ### 引用文献
 
-[^1]: 日本色彩研究所. デジタル色彩マニュアル. クレオ, 2004, pp.228-229
+[^1]: 日本色彩研究所. デジタル色彩マニュアル. クレオ, 2004, pp.228-229.
 [^2]: 日本色研事業株式会社. "PCCS". https://www.sikiken.co.jp/pccs/index.html, (参照2023-02-14).
