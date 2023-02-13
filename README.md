@@ -33,6 +33,4 @@
 
 Any browser you use needs to have __JavaScript__ turned on.
 
-### References
-
 [^1]: 日本色彩研究所. デジタル色彩マニュアル. クレオ, 2004, pp.228-229
