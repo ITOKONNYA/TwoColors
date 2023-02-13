@@ -7,7 +7,7 @@
 
 ## 配色の生成手順
 
-[配色の生成プログラムはこちら](js/color-scheme-generation.js)
+[配色の生成プログラム](js/color-scheme-generation.js)
 
 1. [PCCSの各色のRGB値を並べた配列](js/color-code-store.js)[^1]からメインとなる色の値をランダムに選ぶ。
 2. メインの色と対照性が保てる[PCCSの各色のRGB値を並べた配列](js/color-code-store.js)[^1]を新たに作る。
