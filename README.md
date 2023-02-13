@@ -10,7 +10,7 @@
 [配色の生成プログラム](JavaScript/color-scheme-generation.js)
 
 1. [PCCSの各色を並べた配列](JavaScript/color-code-store.js)[^1]からメインの色をランダムに選ぶ。
-2. メインの色と対照性が保てる色を[PCCSの各色を並べた配列](JavaScript/color-code-store.js)[^1]から選び、配列を新たに作る。
+2. メインの色と対照性が保てる色を[PCCSの各色を並べた配列](JavaScript/color-code-store.js)[^1]から選び、並べた配列を新たに作る。
 3. 新たに作った配列からアクセントの色をランダムに選ぶ。
 
 現在は私の独断で対照性が保てる色を選んでいる。合理的な基準を見つけ次第、改良に取り組む。
