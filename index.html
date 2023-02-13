@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="icon" href="images/favicon.ico">
+    <title>TwoColors</title>
+</head>
+<body id="body">
+    <div id="loader"></div>
+    <header id="header">
+        <h1 class="header-word">TwoColors</h1>
+    </header>
+    <main id="main">
+        <div id="palette-area">
+            <div id="palette">
+                <div id="circle-main"></div>
+                <div id="circle-accent"></div>
+            </div>
+        </div>
+        <div id="code-container">
+            <div class="code-area">
+                <div id="code-main" class="code">#daa0b3</div>
+                <div id="line-main"></div>
+            </div>
+            <div class="code-area">
+                <div id="code-accent" class="code">#debc03</div>
+                <div id="line-accent"></div>
+            </div>
+        </div>
+        <div id="repaint-button">
+            <div id="repaint">Repaint</div>
+        </div>
+        <div id="separation-line"></div>
+        <div class="history-container"></div>
+    </main>
+    <script type="text/javascript" src="js/above-the-fold-animation.js"></script>
+    <script type="text/javascript" src="js/color-code-store.js"></script>
+    <script type="text/javascript" src="js/color-generation.js"></script>
+    <script type="text/javascript" src="js/color-scheme-store.js"></script>
+    <script type="text/javascript" src="js/history-display.js"></script>
+    <script type="text/javascript" src="js/palette-exchanged-for-history.js"></script>
+    <script type="text/javascript" src="js/palette-update.js"></script>
+    <script type="text/javascript" src="js/repaint-action.js"></script>
+</body>
+</html>

@@ -1,0 +1,1 @@
+let colorSchemes = [{mainColor: '#daa0b3', accentColor: '#debc03'}];
