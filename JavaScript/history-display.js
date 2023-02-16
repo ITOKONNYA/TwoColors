@@ -8,7 +8,7 @@ class HistoryDisplay {
     }
 
     execute(repaintCount) {
-        this.historyContainers[this.newlineCount].insertAdjacentHTML('beforeend', '<div class="history"><div class="history-palette"><div class="history-circle-main"></div><div class="history-circle-accent"></div></div></div>');
+        this.historyContainers[this.newlineCount].insertAdjacentHTML('beforeend', '<button class="history"><div class="history-palette"><div class="history-circle-main"></div><div class="history-circle-accent"></div></div></button>');
         this.historyCircleMains[repaintCount] = document.getElementsByClassName('history-circle-main')[repaintCount];
         this.historyCircleMains[repaintCount].style.backgroundColor = colorSchemes[repaintCount].mainColor;
         this.historyCircleAccents[repaintCount] = document.getElementsByClassName('history-circle-accent')[repaintCount];
