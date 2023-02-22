@@ -21,15 +21,15 @@
 
 ## Supported Browsers
 
-* Windows
-    * Google Chrome (latest version) - Recommended
-    * Microsoft Edge (latest version)
-    * Mozilla Firefox (latest version)
 * macOS
     * Google Chrome (latest version) - Recommended
     * Microsoft Edge (latest version)
     * Mozilla Firefox (latest version)
     * Apple Safari (latest version)
+* Windows
+    * Google Chrome (latest version) - Recommended
+    * Microsoft Edge (latest version)
+    * Mozilla Firefox (latest version)
 * iPadOS
     * Google Chrome (latest version) - Recommended
     * Apple Safari (latest version)
