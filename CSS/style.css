@@ -1,0 +1,223 @@
+@charset "utf-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+	font-weight: inherit;
+	font-size: inherit;
+	font-family: inherit;
+    text-decoration: none;
+    vertical-align: baseline;
+    outline: 0;
+}
+
+html {
+	background-color: #322d32;
+	color: #fbfbff;
+	font-weight: 300;
+	font-size: 24px;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+#body {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	height: 100%;
+}
+
+#loader {
+	opacity: 1;
+	position: fixed;
+	top: 0;
+	z-index: 2;
+	width: 100%;
+	height: 100%;
+	background-color: #322d32;
+}
+
+/*---------------- header ------------------------------------------------*/
+
+#header {
+	opacity: 0;
+	position: fixed;
+	top: 0;
+	z-index: 1;
+	width: 100%;
+	height: 3rem;
+	padding: calc((3rem - 1.25rem) * 0.5) 0;
+	background-color: #322d32;
+}
+
+.header-word {
+	width: 100%;
+	height: 1.25rem;
+	padding: 0.25rem 0 0;
+	text-align: center;
+}
+
+/*---------------- /header ------------------------------------------------*/
+
+#main {
+	width: 15rem;
+	height: 100%;
+	margin: 0 auto;
+	padding: 3rem 0;
+}
+
+/*---------------- palette ------------------------------------------------*/
+
+#palette-area {
+	width: calc(10rem * 1.125);
+	height: calc(10rem * 1.125);
+	margin: 3rem calc((15rem - (10rem * 1.125)) * 0.5);
+	padding: calc(((10rem * 1.125) - 10rem) * 0.5);
+	border: 1px solid #fbfbff;
+}
+
+#palette {
+	width: 10rem;
+	height: 10rem;
+	background-color: #ffffff;
+}
+
+#circle-main {
+	transform: translate(30px, 30px);
+	width: calc(10rem * 0.5);
+	height: calc(10rem * 0.5);
+	border-radius: 50%;
+	background-color: #daa0b3;
+}
+
+#circle-accent {
+	transform: translate(150px, 30px);
+	width: calc(10rem * 0.25);
+	height: calc(10rem * 0.25);
+	border-radius: 50%;
+	background-color: #debc03;
+}
+
+/*---------------- /palette ------------------------------------------------*/
+
+/*---------------- code & line ------------------------------------------------*/
+
+#code-container {
+	display: flex;
+	opacity: 0;
+	width: calc(10rem * 1.125);
+	height: calc(1.25rem + 2px);
+	margin: 4rem calc((15rem - (10rem * 1.125)) * 0.5);
+}
+
+.code-area {
+	width: 50%;
+	height: 1.25rem;
+}
+
+.code {
+	width: 100%;
+	height: 100%;
+	padding: 0.25rem 0 0;
+	text-align: center;
+}
+
+#line-main {
+	width: 100%;
+	height: 2px;
+	background-color: #daa0b3;
+}
+
+#line-accent {
+	width: 100%;
+	height: 2px;
+	background-color: #debc03;
+}
+
+/*---------------- /code & line ------------------------------------------------*/
+
+/*---------------- repaint ------------------------------------------------*/
+
+#repaint-button {
+	opacity: 0;
+	width: 5rem;
+	height: 2.5rem;
+	margin: 4rem calc((15rem - 5rem) * 0.5);
+	padding: calc((2.5rem - 1.25rem) * 0.5);
+	border: 1px solid #fbfbff;
+	background-color: #322d32;
+	cursor: pointer;
+}
+
+#repaint-button:hover {
+	background-color: #4b444b;
+}
+
+#repaint-button:active {
+	background-color: #645a64;
+}
+
+#repaint {
+	width: 100%;
+	height: 1.25rem;
+	padding: 0.25rem 0 0;
+	color: #fbfbff;
+	text-align: center;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+/*---------------- /repaint ------------------------------------------------*/
+
+#separation-line {
+	width: 15rem;
+	height: 1px;
+	margin: 4rem 0;
+	background-color: #fbfbff;
+}
+
+/*---------------- history ------------------------------------------------*/
+
+.history-container {
+	display: flex;
+	width: calc(10rem * 1.125);
+	height: calc(2rem * 1.125);
+	margin: 0 calc((15rem - (10rem * 1.125)) * 0.5);
+}
+
+.history {
+	width: calc(2rem * 1.125);
+	height: calc(2rem * 1.125);
+	padding: calc(((2rem * 1.125) - 2rem) * 0.5);
+	background-color: #322d32;
+	cursor: pointer;
+}
+
+.history:hover {
+	background-color: #7d6e7d;
+}
+
+.history-palette {
+	width: 2rem;
+	height: 2rem;
+	background-color: #ffffff;
+}
+
+.history-circle-main {
+	transform: translate(25%, 25%);
+	width: calc(2rem * 0.5);
+	height: calc(2rem * 0.5);
+	border-radius: 50%;
+}
+
+.history-circle-accent {
+	transform: translate(250%, 50%);
+	width: calc(2rem * 0.25);
+	height: calc(2rem * 0.25);
+	border-radius: 50%;
+}
+
+/*---------------- /history ------------------------------------------------*/
