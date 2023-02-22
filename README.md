@@ -22,16 +22,19 @@
 ## Supported Browsers
 
 * Windows
-    * Google Chrome (latest version) - __Recommended__
+    * Google Chrome (latest version) - Recommended
     * Microsoft Edge (latest version)
     * Mozilla Firefox (latest version)
 * macOS
-    * Google Chrome (latest version) - __Recommended__
+    * Google Chrome (latest version) - Recommended
     * Microsoft Edge (latest version)
     * Mozilla Firefox (latest version)
     * Apple Safari (latest version)
 * iPadOS
+    * Google Chrome (latest version) - Recommended
+    * Apple Safari (latest version)
 * Android
+    * Google Chrome (latest version) - Recommended
 
 Any browser you use needs to have __JavaScript__ turned on.
 
