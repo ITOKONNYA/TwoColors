@@ -143,7 +143,7 @@ html {
 	opacity: 0;
 	width: 5rem;
 	height: 2.5rem;
-	margin: 4rem calc((15rem - 5rem) * 0.5);
+	margin: 0 calc((15rem - 5rem) * 0.5);
 	padding: calc((2.5rem - 1.25rem) * 0.5);
 	border: 1px solid #fbfbff;
 	background-color: #322d32;
